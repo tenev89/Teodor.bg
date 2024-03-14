@@ -1,6 +1,6 @@
 TEST CASES
 
-Welcome to the test cases repository for the website www.teodor.bg! This repository contains a collection of test cases aimed at identifying and documenting issues with the teodor.bg
+Welcome to the test cases repository for the website www.teodor.bg ! This repository contains a collection of test cases aimed at identifying and documenting issues with the teodor.bg
 
 About
 
