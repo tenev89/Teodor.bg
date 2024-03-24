@@ -1,6 +1,6 @@
 # Test cases
 
-Welcome to the test cases repository for the website www.teodor.bg ! All test cases are located in ''Issues''
+Welcome to the test cases repository for the website www.teodor.bg ! `#0969DA`All test cases are located in ''Issues''
 
 ## About
 
