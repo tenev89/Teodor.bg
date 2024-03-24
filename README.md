@@ -1,6 +1,8 @@
 # Test cases
 
-Welcome to the test cases repository for the website www.teodor.bg ! **All test cases are located in _''Issues''_**
+Welcome to the test cases repository for the website www.teodor.bg !
+
+## **All test cases are located in _''Issues''_**
 
 ## About
 
